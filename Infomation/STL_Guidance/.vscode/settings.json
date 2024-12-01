@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "array": "cpp",
+        "chrono": "cpp",
+        "format": "cpp",
+        "initializer_list": "cpp",
+        "ranges": "cpp",
+        "regex": "cpp",
+        "span": "cpp",
+        "valarray": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "ostream": "cpp",
+        "stack": "cpp",
+        "queue": "cpp"
+    }
+}
